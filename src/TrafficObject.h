@@ -5,7 +5,7 @@
 #include <thread>
 #include <mutex>
 
-enum ObjectType
+enum class ObjectType
 {
     noObject,
     objectVehicle,
